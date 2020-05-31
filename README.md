@@ -17,7 +17,7 @@ For this proyect were used concepts like:
 
 ***
 
-![Logo react](https://cdn.iconscout.com/icon/free/png-256/angular-3-226070.png) ![Logo Udemy](https://pbs.twimg.com/profile_images/1251141687000264704/U6aXex47_400x400.png)
+![Logo react](https://images.app.goo.gl/HpH8hCmxoNTtGanJA) ![Logo Udemy](https://pbs.twimg.com/profile_images/1251141687000264704/U6aXex47_400x400.png)
 
 
 
